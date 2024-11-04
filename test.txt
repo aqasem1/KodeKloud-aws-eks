@@ -1,0 +1,11 @@
+quay.io/argoproj/argocd:v2.11.0
+
+ghcr.io/dexidp/dex:v2.38.0
+
+
+
+redis:7.0.14-alpine
+
+quay.io/argoproj/argocd:v2.11.0
+
+
